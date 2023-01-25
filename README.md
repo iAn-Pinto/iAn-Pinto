@@ -1,11 +1,12 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working as a Technical Project / Program / Product Manager (Managing tech team initiatives for fintech products) at Kfin Technologies Limited, Hyderabad, India.
+My day to day responsibilities invole, managing front end (React, React Native, Android & iOS, SQLite) and backend (SQL, NodeJS, .net) tech teams for product development initiatives, for end to end digital transformation of mutual fund transactions through technical implementation and enhancement of Straight-Through Processing (STP) feature sets in various mobile and web app products used by Mutual Fund and NPS Investors, Mutual Dund Distributors and AMC RM's.
 <!--
 **iAn-Pinto/iAn-Pinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
