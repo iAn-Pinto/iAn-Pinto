@@ -4,6 +4,8 @@
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/iAn-Pinto)
 
 ### Namaste Mitron 🙏
+Amusingly I consider my name iAn as a portmanteau formed from iOS and Android, the two core mobile frontend development platforms on which I have been professionally managing projects since around the year 2009.
+
 ### I’m currently working as a Technical Project / Program / Product Manager (Managing tech team initiatives for fintech products) at Kfin Technologies Limited, Hyderabad, India.
 My day to day responsibilities invole, managing front end (React, React Native, Android & iOS, SQLite) and backend (SQL, NodeJS, .net) tech teams for product development initiatives, for end to end digital transformation of mutual fund transactions through technical implementation and enhancement of Straight-Through Processing (STP) feature sets in various mobile and web app products used by Mutual Fund and NPS Investors, Mutual Dund Distributors and AMC RM's.
 
