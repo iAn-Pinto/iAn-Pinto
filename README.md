@@ -10,7 +10,7 @@ My name is Ian Pinto and amusingly I consider my name iAn as a portmanteau forme
 My day to day responsibilities invole, managing front end (React, React Native, Android & iOS, SQLite) and backend (SQL, NodeJS, .net) tech teams for product development initiatives, for end to end digital transformation of mutual fund transactions through technical implementation and enhancement of Straight-Through Processing (STP) feature sets in various mobile and web app products used by Mutual Fund and NPS Investors, Mutual Dund Distributors and AMC RM's.
 
 
-I have used Stackoverflow while trying to contribute back my insights on some questions. I also spend some time blogging on Medium, or share some micro-blogging on LinkedIn.
+I use Stackoverflow and try to contribute back my insights on some questions developers raise there. I also blog on Medium and LinkedIn.
 
 <h1 align="center">Connect with me</h1>
 
