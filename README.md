@@ -4,7 +4,7 @@
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/iAn-Pinto)
 
 ### Namaste Mitron 🙏
-My name is Ian Pinto and associate my name iAn as a portmanteau formed from iOS and Android, the two high impact global mobile frontend development platforms on which I have been professionally managing projects since around the year 2009 at organizations like The Walt Disney Company, Tata Interactive Systems, and now my current organisation Kfintech.
+My name is Ian Pinto and associate my first name iAn as a portmanteau formed from iOS and Android, the two high impact global mobile frontend development platforms on which I have been professionally managing projects since around the year 2009 at organizations like The Walt Disney Company, Tata Interactive Systems, and now my current organisation Kfintech.
 
 I associate my name 'Pinto iAn' with my ongoing motto: Peer-into intelligence Augmentation nexus!
 
