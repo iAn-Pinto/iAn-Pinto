@@ -3,7 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/iAn-Pinto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iAn-Pinto?tab=followers)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/iAn-Pinto)
 
-### Namaste Mitron 🙏 Hello Friends
+### Namaste 🙏 Hello
+
+I am Ian Pinto, from Mumbai, India.
 
 I associate my name 'Pinto iAn' with my ongoing motto: Peer-into intelligence Augmentation nexus!
 
