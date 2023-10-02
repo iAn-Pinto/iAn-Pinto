@@ -9,9 +9,8 @@ I am Ian Pinto, from Mumbai, India.
 
 I associate my name 'Pinto iAn' with my ongoing motto: Peer-into intelligence Augmentation nexus!
 
-### I’m currently working as a Technical Project / Program / Product Manager (Managing tech team initiatives for fintech products) at Kfin Technologies Limited, Hyderabad, India.
+### I’m currently working as a Technical Project and Product Manager (Managing tech team initiatives for fintech products) at Kfin Technologies Limited, Hyderabad, India.
 My day to day responsibilities invole, managing front end (React, React Native, Android & iOS, SQLite) and backend (SQL, NodeJS, .net) tech teams for product development initiatives, for end to end digital transformation of mutual fund transactions through technical implementation and enhancement of Straight-Through Processing (STP) feature sets in various mobile and web app products used by Mutual Fund and NPS Investors, Mutual Dund Distributors and AMC RM's.
-
 
 I use Stackoverflow and try to contribute back my insights on some questions developers raise there. I also blog on Medium and LinkedIn.
 
