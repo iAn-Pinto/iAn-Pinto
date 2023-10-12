@@ -1,5 +1,3 @@
-<iframe src="https://github.com/sponsors/iAn-Pinto/card" title="Sponsor iAn-Pinto" height="225" width="600" style="border: 0;"></iframe>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=iAn-Pinto)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/iAn-Pinto)
 [![GitHub followers](https://img.shields.io/github/followers/iAn-Pinto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iAn-Pinto?tab=followers)
