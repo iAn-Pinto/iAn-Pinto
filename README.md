@@ -3,17 +3,27 @@
 [![GitHub followers](https://img.shields.io/github/followers/iAn-Pinto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iAn-Pinto?tab=followers)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/iAn-Pinto)
 
-### Hello
+---
 
-I am Ian Pinto, from Mumbai, India.
+I am Ian Pinto from Mumbai, India, currently serving as the Associate Vice President at a prominent Mutual Fund Asset Management Company in Mumbai, India. 
 
-### Working as an Associate Vice President at a large Mutual Fund Asset Management Company in Mumbai, India. 
+#### Professional Experience
 
-In the past I worked as a Senior Technology Project and Product Manager (Managing tech team initiatives for fintech products) at a large Mutual Funds RTA - Kfin Technologies Limited, Hyderabad, India.
+- **Associate Vice President, (Mumbai, India)**
+  - Leading IT initiatives and projects to drive innovation and efficiency within the organization.
+  - Managing a diverse team of professionals to deliver high-quality fintech solutions.
 
-I have a proven track record of building scalable, AWS, Azure and GCP multi cloud based profitable, high-revenue, and high-impact mobile-first applications. I am well-versed in conducting user research and data analytics to drive product development decisions.
+- **Senior Technology Project and Product Manager, Kfin Technologies Limited (Hyderabad, India)**
+  - Oversaw technology team initiatives for fintech products, ensuring successful project delivery and product development.
+  - Spearheaded numerous projects that contributed to the company's growth and customer satisfaction.
 
-<h1 align="center">Connect with me</h1>
+#### Skillset and Expertise
+
+- **Cloud Computing**: Expertise in building scalable, multi-cloud applications using AWS, Azure, and GCP.
+- **Product Development**: Proven track record of developing high-revenue, impactful, mobile-first applications.
+- **User Research & Data Analytics**: Skilled in conducting user research and data analytics to inform and drive product development decisions.
+
+<h1 align="center">Feel free to connect with me for collaboration, networking, or any professional inquiries.</h1>
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/pintoian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
