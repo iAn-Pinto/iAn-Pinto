@@ -23,7 +23,7 @@ I am Ian Pinto from Mumbai, India, currently serving as the Associate Vice Presi
 - **Product Development**: Proven track record of developing high-revenue, impactful, mobile-first applications.
 - **User Research & Data Analytics**: Skilled in conducting user research and data analytics to inform and drive product development decisions.
 
-<h1 align="center">Feel free to connect with me for collaboration, networking, or any professional inquiries.</h1>
+<h1 align="center">Feel free to connect with me for collaboration, networking, or any professional inquiries through below mediums.</h1>
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/pintoian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
