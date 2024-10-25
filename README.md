@@ -7,7 +7,7 @@
 
 I am Ian Pinto, from Mumbai, India.
 
-### Working as an Associate Vice President at a large Mutual Fund Asset Management Company in Mumbai. 
+### Working as an Associate Vice President at a large Mutual Fund Asset Management Company in Mumbai, India. 
 
 In the past I worked as a Senior Technology Project and Product Manager (Managing tech team initiatives for fintech products) at a large Mutual Funds RTA - Kfin Technologies Limited, Hyderabad, India.
 
